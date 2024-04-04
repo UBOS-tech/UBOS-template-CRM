@@ -1,0 +1,8 @@
+[submodule "UBOS-template-CRM-ui"]
+	path = UBOS-template-CRM-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-CRM-ui.git
+	branch = main
+[submodule "UBOS-template-CRM-nr"]
+	path = UBOS-template-CRM-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-CRM-nr.git
+	branch = master
